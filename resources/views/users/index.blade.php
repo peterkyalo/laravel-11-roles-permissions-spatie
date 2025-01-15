@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-10">
-            <div class="card shadow">
+            <div class="card shadow border border-primary">
                 <div class="card-header">{{ __('Users') }}</div>
 
                 <div class="card-body">
